@@ -1,8 +1,8 @@
 # Pantheon
-[![GitHub Release](https://img.shields.io/github/release/zjayers/Pantheon.svg?style=flat)]()
-[![GitHub pull requests](https://img.shields.io/github/issues-pr/zjayers/Pantheon.svg?style=flat)]()
+[![GitHub Release](https://img.shields.io/github/release/zjayers/Pantheon.svg?style=flat)](https://github.com/zjayers/Pantheon/releases)
+[![GitHub pull requests](https://img.shields.io/github/issues-pr/zjayers/Pantheon.svg?style=flat)](https://github.com/zjayers/Pantheon/pulls)
 [![Issues](https://img.shields.io/github/issues-raw/zjayers/Pantheon.svg?maxAge=25000)](https://github.com/zjayers/Pantheon/issues)
-[![MIT License](https://img.shields.io/apm/l/atomic-ui.svg?)](https://github.com/zjayers/Pantheon/blob/master/LICENSEs)
+[![MIT License](https://img.shields.io/apm/l/atomic-ui.svg?)](https://github.com/zjayers/Pantheon/blob/master/LICENSE)
 
 ## Description
 
